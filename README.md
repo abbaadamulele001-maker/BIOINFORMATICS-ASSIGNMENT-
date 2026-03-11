@@ -26,10 +26,10 @@ scripts/
 - C++
 
 ## Contributors
-- Abba Adamu
-- Aisha Tushehunu
-- Member 3
-- Member 4
+- Abba Adamu Lele 
+- Aishatu shehu nuhu
+- Raufa Ahmad dashe
+- halima Ibrahim bunu
 
 ## Purpose
 The purpose of this assignment is to demonstrate the use of different programming languages in bioinformatics and collaborative work using GitHub.
