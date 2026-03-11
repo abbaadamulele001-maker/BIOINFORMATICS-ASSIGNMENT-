@@ -1,12 +1,35 @@
-#include <iostream>
-using namespace std;
+# Bioinformatics Assignment
 
-int main() {
+## Project Description
+This repository contains a group assignment for Bioinformatics.  
+Each member of the group contributes a script written in a different programming language used in bioinformatics analysis.
 
-    cout << "Raufa Ahmad Dashe" << endl;
-    cout << "ahmadraufa695@gmaill.com" << endl;
-    cout << "@raufa" << endl;
-    cout << "Gene ontology" << endl;
+The scripts print the following information:
+- Name
+- Email
+- GitHub or Slack username
+- Area of interest in Bioinformatics
 
-    return 0;
-}
+## Repository Structure
+scripts/
+- python_script.py
+- r_script.R
+- java_script.java
+- perl_script.pl
+- cpp_script.cpp
+
+## Programming Languages Used
+- Python
+- R
+- Java
+- Perl
+- C++
+
+## Contributors
+- Abba Adamu
+- Aisha Tushehunu
+- Member 3
+- Member 4
+
+## Purpose
+The purpose of this assignment is to demonstrate the use of different programming languages in bioinformatics and collaborative work using GitHub.
