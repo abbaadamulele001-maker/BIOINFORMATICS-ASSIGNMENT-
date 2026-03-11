@@ -20,7 +20,7 @@ scripts/
 
 ## Programming Languages Used
 - Python
-- R
+- Ruby
 - Java
 - Perl
 - C++
