@@ -13,7 +13,7 @@ The scripts print the following information:
 ## Repository Structure
 scripts/
 - python_script.py
-- r_script.R
+- ruby_script.R
 - java_script.java
 - perl_script.pl
 - cpp_script.cpp
