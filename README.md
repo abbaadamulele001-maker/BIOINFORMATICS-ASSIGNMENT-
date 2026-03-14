@@ -96,3 +96,15 @@ This project demonstrates how different programming languages can be used in bio
 This project was created and managed using:
 
 - GitHub
+
+## Lecturer / Supervisor
+
+Lecturer: Dr. _UMAR AHMAD_________________  
+Department: HUMAN ANATOMY __________________  
+Institution: ___ZA'ADU ZUNGUR UNIVERSITY BAUCHI, BAUCHI STATE OF NIGERIA_______________  
+
+# THIS PROJECT WAS COMPLETED UNDER THE SUPERVISION OF
+
+ --Dr. UMAR AHMAD 
+-  THE SENIOR GENOMIC SCIENTIST,
+-- DIRECTOR OF THE DIRECTORATE OF LINKAGES AND INTERNATIONAL PARTNERSHIP AT SA'ADU ZUNGUR UNIVERSITY 
