@@ -38,8 +38,8 @@ The following programming languages were used in this project:
 
 - Python
 - C++
-- R
-- Perl
+- java 
+- ruby
 
 ---
 
@@ -73,8 +73,8 @@ scripts/
 Members of this group are interested in different areas of bioinformatics such as:
 
 - Genomics
-- Proteomics
-- Computational Biology
+- gene expiration 
+- gene odontology 
 - Genetic Data Analysis
 
 ---
