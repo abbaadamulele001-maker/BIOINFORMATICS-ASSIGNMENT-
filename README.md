@@ -38,7 +38,6 @@ The following programming languages were used in this project:
 
 - Python
 - C++
-- Ruby
 - R
 - Perl
 
