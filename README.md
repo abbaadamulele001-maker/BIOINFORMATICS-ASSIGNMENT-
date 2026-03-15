@@ -64,7 +64,7 @@ scripts/
 | Abba ADAMU Lele |BASUG/UG/BMS/ANA/22/6688 __________ | Python |
 | Aishatu Shehu Nuhu | __Basug/UG/BMS/ana /22/8526________ | Ruby |
 | ra'ufa Ahmad dashe| __basug/UG/BMS/ana/22/6671________ | C++ |
-|halima Ibrahim bunu| ___basug/UG/bms/ANA/22_______ | java |
+|halima Ibrahim bunu| ___basug/UG/bms/ANA/22__3622_____ | java |
 
 ---
 
