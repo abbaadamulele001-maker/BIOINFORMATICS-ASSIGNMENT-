@@ -74,7 +74,7 @@ Members of this group are interested in different areas of bioinformatics such a
 
 - Genomics
 - gene expiration 
-- gene odontology 
+- gene ontology 
 - Genetic Data Analysis
 
 ---
