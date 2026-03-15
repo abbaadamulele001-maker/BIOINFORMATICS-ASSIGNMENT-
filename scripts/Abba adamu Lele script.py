@@ -1,14 +1,12 @@
 # Bioinformatics Assignment Script
-# Author: Abba ADAMU Lele
+# Author: Abba Adamu Lele
 
-# Define personal information
-full_name = "Abba ADAMU Lele"
+full_name = "Abba Adamu Lele"
 email = "abbaadamulele001@gmail.com"
 slack_username = "@Abba Adamu"
 area_of_interest = "Genomics"
 
-# Print the information in the required order
-print("I. Full Name:", full_name)
-print("II. Email Address:", email)
-print("III. Slack Username:", slack_username)
-print("IV. Area of Interest in Bioinformatics:", area_of_interest
+print("Full Name:", full_name)
+print("Email Address:", email)
+print("Slack Username:", slack_username)
+print("Area of Interest:", area_of_interest)
