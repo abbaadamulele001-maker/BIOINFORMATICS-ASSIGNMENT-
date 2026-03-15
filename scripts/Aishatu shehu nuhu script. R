@@ -1,0 +1,13 @@
+# Script to print personal information for bioinformatics interest
+
+# Define the information
+full_name = "Aishatu Shehu Nuhu"
+email = "aishatushehunuhu21@gmail.com"
+slack_username = "@aishatushehunuhu21-design"
+area_of_interest = "Genomics"
+
+# Print in the specified order with Roman numeral labels
+puts "I. Full Name: #{aishatu shehu nuhu"
+puts "II. Email Address: #aishatushehunuhu@g"
+puts "III. Slack Username: #{slack_}"
+puts "IV. Area of Interest in Bioinformatics: #{area_of_interest}"
